@@ -1,2 +1,2 @@
 # html-css-projects
-A project with HTML and CSS only
+All my projects using HTML5 and CSS3 only
